@@ -1,0 +1,20 @@
+{
+    "Author": "Gisela Torres",
+    "ContentSize": 1669,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/delete-all-your-empty-resource-groups/master/Delete-Empty-Resource-Groups.ps1",
+    "DownloadCount": 1774,
+    "Id": "Delete-all-your-empty-1e045b74",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 279,
+    "RaterCount": 2,
+    "Rating": 2.5,
+    "ReleaseDate": "2015-12-12T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "It deletes all azure resource groups which don't have any resource in it.",
+    "Title": "Delete all your empty resource groups",
+    "UpdatedDate": "2018-11-16T00:00:00",
+    "Url": "https://github.com/azureautomation/delete-all-your-empty-resource-groups",
+    "UserTags": "Microsoft Azure, PowerShell Workflow, Azure Automation"
+}
